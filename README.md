@@ -1,6 +1,6 @@
 # Message Board
 
-This project consists on a program for managing the inventory of a warehouse. Each product contains an **id code** (**key**) and a its **current stock**. The user interaction with the program occurs through a set of lines composed by a letter (the command itself) and eventually one or two arguments.
+This project consists on a program for managing the inventory of a warehouse. Each product contains an **id code** (**key**) and its **current stock**. The user interaction with the program occurs through a set of lines composed by a letter (the command itself) and eventually one or two arguments.
 
 ## Commands Available
 
